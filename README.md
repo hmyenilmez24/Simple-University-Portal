@@ -1,1 +1,1 @@
-# SimpleUniversityPortal-mysql-python
+# Simple University Portal with MySQL and Python
